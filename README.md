@@ -2,6 +2,9 @@
 
 A modern and elegant NFT marketplace mobile application built with React Native and Expo. This app showcases a collection of NFTs with detailed views, smooth navigation, and a beautiful user interface.
 
+> ⚠️ **Warning:** This is my first React Native project, created during my early learning stage. Code structure and practices may not reflect professional standards, but it's a valuable milestone in my hands-on journey.
+
+
 ## 📱 Features
 
 - **Welcome Screen**: Attractive onboarding experiencBe
@@ -35,8 +38,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/najaranas/nft-project.git
-   cd nft-project
+   git clone https://github.com/najaranas/nft-app.git
+   cd nft-app
    ```
 
 2. **Install dependencies**
